@@ -13,7 +13,7 @@ reinstall.
 I love having Debian on a keyring, it's now my most favorite distro to install.
 I think I like it because it's pretty basic and doesn't come with a lot of
 bloat. I also like that you can set it up to run with XFCE out of the box and
-it takes up barely any ram in the system.
+it takes up barely any ram on the system.
 
 The drawback is of course that it doesn't come with proprietary drivers needed
 for things like Wifi and the GPU. I always have to figure out some way of
@@ -67,6 +67,3 @@ that as well, but once that's done. It's all smooth sailing.
 
 Well, this turned out to be a bit of a longer rant than I expected. So I'll
 sign off here now. 
-
--K
-
