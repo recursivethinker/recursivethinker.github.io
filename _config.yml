@@ -26,7 +26,6 @@ domain: recursivethinker.github.io
 
 # Build settings
 markdown: kramdown
-theme: zivong/ockham
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -43,5 +42,3 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Remote Theme
-remote_theme: zivong/ockham
